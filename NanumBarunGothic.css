@@ -1,0 +1,37 @@
+font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunGothic.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunGothic.woff) format('woff');
+    font-display: swap;
+}
+font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 600;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunGothicBold.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunGothicBold.woff) format('woff');
+    font-display: swap;
+}
+font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 300;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunGothicLight.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunGothicLight.woff) format('woff');
+    font-display: swap;
+}
+font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 200;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunGothicUltraLight.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunGothicUltraLight.woff) format('woff');
+    font-display: swap;
+}
+  

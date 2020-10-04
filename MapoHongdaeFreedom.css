@@ -2,8 +2,7 @@
     font-family: 'MapoHongdaeFreedom';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.woff) format('woff'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.ttf) format('truetype');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_01/MapoHongdaeFreedom.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_01/MapoHongdaeFreedom.woff) format('woff');
     font-display: swap;
 }

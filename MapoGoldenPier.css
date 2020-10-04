@@ -2,8 +2,7 @@
     font-family: 'MapoGoldenPier';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoGoldenPier.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoGoldenPier.woff) format('woff'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoGoldenPier.ttf) format('truetype');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_01/MapoGoldenPier.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_01/MapoGoldenPier.woff) format('woff');
     font-display: swap;
 }

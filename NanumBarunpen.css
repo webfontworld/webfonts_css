@@ -1,0 +1,19 @@
+font-face {
+    font-family: 'Nanum Barun Pen';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 600;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunpenB.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunpenB.woff) format('woff');
+    font-display: swap;
+}
+
+font-face {
+    font-family: 'Nanum Barun Pen';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBarunpenR.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBarunpenR.woff) format('woff');
+    font-display: swap;
+}

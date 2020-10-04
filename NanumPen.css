@@ -2,9 +2,8 @@
     font-family: 'Nanum Pen';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumPen.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumPen.woff) format('woff'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumPen.ttf) format('truetype');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumPen.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumPen.woff) format('woff');
     font-display: swap;
 }
   
