@@ -4,7 +4,7 @@
     font-style: normal; 
     font-weight: 400;
     src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjo.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumMyeongjo.woff) format('woff');
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjo.woff) format('woff');
     font-display: swap;
 }
 @font-face {
@@ -13,7 +13,7 @@
     font-style: normal; 
     font-weight: 600;
     src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjoBold.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumMyeongjoBold.woff) format('woff');
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjoBold.woff) format('woff');
     font-display: swap;
 }
 @font-face {
@@ -22,7 +22,7 @@
     font-style: normal; 
     font-weight: 700;
     src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjoExtraBold.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumMyeongjoExtraBold.woff) format('woff');
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMyeongjoExtraBold.woff) format('woff');
     font-display: swap;
 }
   

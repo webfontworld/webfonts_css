@@ -2,8 +2,8 @@
     font-family: 'Nanum Brush';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumBrush.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_03/NanumBrush.woff) format('woff');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_04/NanumBrush.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_04/NanumBrush.woff) format('woff');
     font-display: swap;
 }
   
