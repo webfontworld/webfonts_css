@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Nanum Maru Buri';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMaruburiBetar.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webfontworld/webfonts2020_02/NanumMaruburiBetar.woff) format('woff');
+    font-display: swap;
+}
